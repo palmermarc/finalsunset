@@ -7,6 +7,13 @@
     * { font-family: 'Montserrat', sans-serif; }
     body { background-color: #adadad; margin: 0; padding: 0; }
     p { margin-top: 0; }
+    h1 {
+      text-shadow: 1px 1px 1px #cc6600;
+      font-size: 40px;
+      line-height: 1em;
+      margin: 0;
+      text-transform: uppercase;
+    }
     #header { background-color: #cc6600; }
     #logo {height: 60px; font-family: 'Carter One', cursive; font-size: 40px; padding: 20px 0; color: #FFF; text-shadow: 1px 1px 13px #000000;}
     #logo img { height: 60px; }
@@ -43,8 +50,20 @@
       padding: 8px 0;
       text-decoration: none;
     }
-
-
+    #directions td {
+     padding: 5px 0 5px 5px;
+    }
+    #directions tr td:first-of-type {
+      padding-left: 5px;
+      width: 35%;
+    }
+    #directions tbody tr:nth-of-type(odd) {
+      background-color: #f1f1f1;
+    }
+    #directions tbody tr:hover {
+      background-color: #cc6600;
+      color: #fff;
+    }
   </style>
 
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-25448617-8"></script>
@@ -72,7 +91,7 @@
       <li><a href="#">Changes</a></li>
       <li><a href="#">Clans</a></li>
       <li><a href="#">Code</a></li>
-      <li><a href="#">Directions</a></li>
+      <li><a href="/directions.php">Directions</a></li>
       <li><a href="#">Downloads</a></li>
       <li><a href="#">Main</a></li>
       <li><a href="#">Misc</a></li>
