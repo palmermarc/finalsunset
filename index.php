@@ -2,26 +2,46 @@
     <section>
       <div class="content_bin">
         <article id="main-content">
+          <p>In the beginning, there was Eden, and so there was the land of Nod.
+          Caine and Abel, two brothers, children of Adam, inhabited Eden with their father.
+          One day, the One Above called for a sacrifice. Caine, born with an affinity
+          towards nature and plants, brought fourth his finest saplings, his most tender
+          seeds, to sacrifice as the best part of himself. Abel, who had sought friendship
+          among the animals, sacrificed his sweetest calves and youngest creatures.
+          The blood from Abel's sacrifice smelled sweet to the One Above, and he was blessed.
+          Caine only received a harsh word from the One Above. He was despondent, depressed at
+          having failed. The next time Adam called for a sacrifice, Caine brought nothing.
+          Abel asked him, "Brother, why have you not brought what you love to sacrifice?"
+          Caine replied, "I have," and with that, drove sharp things through Abel on the altar,
+          sacrificing what he loved most.</p>
 
-          <p>Lorem ipsum dolor sit amet, te magna tamquam inciderint eam, graeco utroque vix an. Vim sumo interesset ut. Unum iudico vituperatoribus in mel, his ne mollis docendi detraxit. Eros labitur luptatum ut usu, nibh iudico et quo, meis veniam platonem duo ea.</p>
+          <p>Adam cursed Caine, as did the One Above, casting him into the Land of Nod, to spend
+          the rest of his life among the savage natives of Nod. It was there that Lilith, Adam's first wife,
+          also cursed, came to Caine. She offered solace and friendship, for she was a powerful
+          Sorcerer, and filled with dark magicks. She wove him clothes from nothing, she created
+          shelter for him from nothing, she fed him from nothing. Caine grew weary and asked Lilith to
+          show him these secrets, so that he may do these things for himself.</p>
 
-          <p>No eum iisque feugait mandamus, id vero summo vis, cum omittam fastidii in. Tale admodum usu id, et dicta nullam ceteros qui, sumo epicuri sadipscing ex ius. Et sea sale fierent similique, veritus philosophia cum et, augue utamur pro id. Nonumes alienum fierent in sit, eos malis soluta ei. Nulla verterem at vim, te doctus iudicabit intellegam sed.</p>
+          <p>"I know not what will happen to one who is truly cursed by the One Above," she
+          answered. But Caine was persistent, and eventually, she drew vitae from herself into a bowl,
+          and commanded Caine to drink of it.</p>
 
-          <p>Vis zril cetero in. Nec malis pericula consequuntur ne. Per verear menandri ex. Vim modus minimum ei, nec ea vidit suscipit similique. Dicta oporteat vix eu, no his suas paulo mandamus.</p>
+          <p>Caine fell into the abyss, entering an awareness he had before not been able to attain.
+          Three angels came to him, offering forgiveness from Abel, Adam and finally from the
+          One Above. To each, Caine responded, "Only may I forgive myself, not even the One Above
+          has a say in this." So each cursed him: He and his childer will live forever in torment,
+          only able to drink blood and eat ashes, and fear both the sun and life-giving flame.
+          Caine was horrified - He tore at his hair, beat the ground with his fists. And he awoke.
+          He saw the world as it truly was, how to mold non-existence into existence. With this
+          he created the Vampiric Disciplines.</p>
 
-          <p>Ius ut errem tantas graecis. Ut nulla ridens putant qui. Mea ne zril doming periculis, alia nobis ad mei. Liber nostrud fuisset nec ea, ut omnis fierent scribentur vel. Ad numquam concludaturque pri, at qui idque interpretaris.</p>
+          <p>We are Childer of Caine, gifted with extraordinary powers, but cursed to walk the world
+          only in moonlight, and to drink blood from the Children of Seth, the Kine, the mortals.
+          Some of us will live forever; others will perish.
+          Everyday is a struggle in the Jyhad, clan upon clan, Cainite upon Cainite, in a war of both subtle
+          politics and open battle.</p>
 
-          <p>Sit te dicit laudem vivendum, fabulas menandri an vim. Ad quo vitae vocent admodum, mei ea fugit scripserit consectetuer. Eam laudem labore at. Mel no docendi nominati, at mea decore adipiscing, zril commune euripidis in eam.</p>
-
-          <p>Sed cotidieque theophrastus eu, et labores feugait duo, vix tamquam gubergren et. Cibo discere ad cum, sint lobortis accusamus pri in. Cu eum amet enim mazim. Mel ad nullam accusamus ullamcorper. Tempor essent maluisset has ad. Iuvaret feugait antiopam mea ei, ne eam choro doming.</p>
-
-          <p>Mei eu mutat nonumy facilis. Ullum civibus lucilius mel ex. Sit solum prompta vulputate te, tamquam assueverit vix cu. Per tempor detracto invenire ex. Posse scripta viderer ex mei, et quod alii necessitatibus sea.</p>
-
-          <p>Numquam deleniti perpetua te qui. Dico sadipscing ad vix, solum tamquam mei an. Per no inani summo omittam, labitur suscipit principes an per. Et ceteros assueverit ius. Ex his prima corrumpit. Cu eam modo agam, ipsum admodum adipiscing at sea.</p>
-
-          <p>Has et populo audiam periculis, et mei quaeque ornatus. Ex quo tollit bonorum. Minim putent signiferumque te duo. Vix ad erant omnesque lobortis, vide wisi mea cu. Dicat verterem expetenda his at, ius an lorem soleat delicatissimi. At cum numquam appetere volutpat.</p>
-
-          <p>Te unum recteque sea. Pro at quis minim postea, vix etiam quaeque evertitur at. Unum dignissim vel eu. Ius ad ceteros complectitur, vim ea docendi recteque reprehendunt. Ad ius modo dicta libris, suscipiantur comprehensam et per, quod alterum sea ne.</p>
+          <p>Join us.. For the Final Sunset.</p>
         </article>
       </div>
     </section>

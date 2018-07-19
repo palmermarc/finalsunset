@@ -4,14 +4,16 @@
   <title>Vampire Wars: The Final Sunset</title>
 
   <style>
-    * { font-family: 'Montserrat', sans-serif; }
+    * { font-family: 'Open Sans', sans-serif; }
     body { background-color: #adadad; margin: 0; padding: 0; }
     p { margin-top: 0; }
+    h1,h2,h3,h4,h5,h6 { font-family: 'Montserrat', sans-serif; }
     h1 {
       text-shadow: 1px 1px 1px #cc6600;
       font-size: 40px;
       line-height: 1em;
       margin: 0;
+      margin-bottom: 0.5em;
       text-transform: uppercase;
     }
     #header { background-color: #cc6600; }
@@ -64,8 +66,23 @@
       background-color: #cc6600;
       color: #fff;
     }
+    #admin p {
+      margin: 0;
+    }
+    #admin h3 {
+      margin-bottom: 0;
+    }
+    .question {
+      font-size: 20px;
+      font-weight: 700;
+    }
+    .answer {
+      margin-bottom: 1em;
+    }
+    strong {
+      font-weight: 700;
+    }
   </style>
-
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-25448617-8"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -79,24 +96,24 @@
 <header id="header">
   <div class="content_bin">
     <div id="logo">
-      <img src="finalsunset.svg" />
+      <a href="/">
+        <img src="finalsunset.svg" />
+      </a>
     </div>
   </div>
 </header>
 <nav>
   <div class="content_bin">
     <ul id="main-menu">
-      <li><a href="#">Home</a></li>
-      <li><a href="#">Admin</a></li>
+      <li><a href="/admin.php">Admin</a></li>
       <li><a href="#">Changes</a></li>
       <li><a href="#">Clans</a></li>
-      <li><a href="#">Code</a></li>
+      <li><a href="/code.php">Code</a></li>
       <li><a href="/directions.php">Directions</a></li>
-      <li><a href="#">Downloads</a></li>
-      <li><a href="#">Main</a></li>
+      <li><a href="/downloads.php">Downloads</a></li>
       <li><a href="#">Misc</a></li>
-      <li><a href="#">Newbie</a></li>
-      <li><a href="#">Questing</a></li>
+      <li><a href="/newbie.php">Newbie</a></li>
+      <li><a href="/questing.php">Questing</a></li>
     </ul>
   </div>
 </nav>
