@@ -2,10 +2,20 @@
 <html>
 <head>
   <title>Vampire Wars: The Final Sunset</title>
-
-  <style>
+    <style>
     * { font-family: 'Open Sans', sans-serif; }
-    body { background-color: #adadad; margin: 0; padding: 0; }
+    body {
+      background: #222 url(Camarilla_Logo.svg) no-repeat center 150px;
+      background-attachment: fixed;
+      background-size: contain;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+    }
+    a,
+    a:visited {
+      color: #cc6600;
+    }
     p { margin-top: 0; }
     h1,h2,h3,h4,h5,h6 { font-family: 'Montserrat', sans-serif; }
     h1 {
@@ -16,17 +26,14 @@
       margin-bottom: 0.5em;
       text-transform: uppercase;
     }
-    #header { background-color: #cc6600; }
-    #logo {height: 60px; font-family: 'Carter One', cursive; font-size: 40px; padding: 20px 0; color: #FFF; text-shadow: 1px 1px 13px #000000;}
+    #header { background-color: #000000; }
+    #logo {height: 60px; font-family: 'Carter One', cursive; font-size: 40px; padding: 20px 0; color: #FFF; text-shadow: 1px 1px 13px #000000; float: left;}
     #logo img { height: 60px; }
     #copyright { text-align: center; font-style: italic; font-size: 10px; }
     .content_bin { width: 1100px; margin: 0 auto; }
     #main-content {
-      background-color: #FFF;
-      box-shadow: 0px 0px 7px 0px #000;
       padding: 40px;
       font-size: 18px;
-
     }
     nav {
       background-color: #000;
@@ -35,7 +42,8 @@
     ul#main-menu {
       list-style-type: none;
       margin: 0;
-      padding: 0;
+      padding: 26px 0 0 0;
+      text-align: right;
     }
     ul#main-menu li {
       display: inline-block;
@@ -59,9 +67,6 @@
       padding-left: 5px;
       width: 35%;
     }
-    #directions tbody tr:nth-of-type(odd) {
-      background-color: #f1f1f1;
-    }
     #directions tbody tr:hover {
       background-color: #cc6600;
       color: #fff;
@@ -82,6 +87,11 @@
     strong {
       font-weight: 700;
     }
+    .clearfix {
+      clear: both;
+      display: table;
+      height: 0;
+    }
   </style>
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-25448617-8"></script>
   <script>
@@ -100,23 +110,22 @@
         <img src="finalsunset.svg" />
       </a>
     </div>
+    <nav>
+      <ul id="main-menu">
+        <li><a href="#">Changes</a></li>
+        <li><a href="#">Clans</a></li>
+        <li><a href="/directions.php">Directions</a></li>
+        <li><a href="/downloads.php">Downloads</a></li>
+        <li><a href="#">Misc</a></li>
+        <li><a href="/newbie.php">Newbie</a></li>
+        <li><a href="/questing.php">Questing</a></li>
+        <li><a href="telnet://www.thefinalsunset.com:4888/" class="primary">PLAY NOW</a></li>
+      </ul>
+    </nav>
   </div>
+  <div class="clearfix"></div>
 </header>
-<nav>
-  <div class="content_bin">
-    <ul id="main-menu">
-      <li><a href="https://palmermarc.github.io/finalsunset/admin.html">Admin</a></li>
-      <li><a href="#">Changes</a></li>
-      <li><a href="#">Clans</a></li>
-      <li><a href="https://palmermarc.github.io/finalsunset/code.html">Code</a></li>
-      <li><a href="https://palmermarc.github.io/finalsunset/directions.html">Directions</a></li>
-      <li><a href="https://palmermarc.github.io/finalsunset/downloads.html">Downloads</a></li>
-      <li><a href="#">Misc</a></li>
-      <li><a href="https://palmermarc.github.io/finalsunset/newbie.html">Newbie</a></li>
-      <li><a href="https://palmermarc.github.io/finalsunset/questing.html">Questing</a></li>
-    </ul>
-  </div>
-</nav>    <section>
+    <section>
       <div class="content_bin">
         <article id="main-content">
           <p>In the beginning, there was Eden, and so there was the land of Nod.

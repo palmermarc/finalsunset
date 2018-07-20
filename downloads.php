@@ -13,6 +13,18 @@
           <li><a href="#">Sounds.zip</a></li>
         </ul>
 
+        <p>Please feel free to download any of these by just clicking on the name and it will automatically start downloading.</p>
+
+        <h3>Code that Joker released to the world.</h3>
+        <p>
+          <a href="#">Vampire Wars code base (tar file)</a>
+        </p>
+
+        <h3>Code Snippets</h3>
+        <p>
+          <a href="#">Colour/ansi code written by Caine</a>
+        </p>
+
       </article>
     </div>
   </section>
