@@ -56,7 +56,6 @@
     }
 
     ul#main-menu li a {
-      color: #FFF;
       display: block;
       padding: 8px 0;
       text-decoration: none;
